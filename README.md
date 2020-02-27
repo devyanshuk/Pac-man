@@ -1,5 +1,7 @@
 Python implementation of the infamous Pac-man game.
 
+Run the main.py file on terminal.
+
 Cheats:
 
 1) hesoyam 	      - full health
@@ -18,3 +20,4 @@ Cheats:
 14) slowgameplay  - decreases the game speed
 
 Make sure you install pygame first
+
