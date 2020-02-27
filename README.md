@@ -1,6 +1,6 @@
 Python implementation of the infamous Pac-man game.
 
-Run the main.py file on terminal.
+Run the main.py file on terminal. Make sure you install pygame first
 
 Cheats:
 
@@ -18,6 +18,3 @@ Cheats:
 12) tooeasy    - increases the speed of all ghosts
 13) fastgameplay  = increases the game speed
 14) slowgameplay  - decreases the game speed
-
-Make sure you install pygame first
-
