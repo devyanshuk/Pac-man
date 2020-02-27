@@ -15,6 +15,6 @@ Cheats:
 9) toohard        - decreases the ghost speed and the game level
 10) pauseplayer   - pauses the player
 11) resumeplayer  - resumes the player
-12) tooeasy    - increases the speed of all ghosts
-13) fastgameplay  = increases the game speed
+12) tooeasy       - increases the speed of all ghosts
+13) fastgameplay  - increases the game speed
 14) slowgameplay  - decreases the game speed
