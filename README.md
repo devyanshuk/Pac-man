@@ -1,4 +1,4 @@
-## Python implementation of the infamous Pac-man game.
+#### Python implementation of the infamous Pac-man game.
 
 Run the main.py file on terminal. Make sure you install pygame first
 
