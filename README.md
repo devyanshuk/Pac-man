@@ -11,7 +11,7 @@ __Cheats:__
 5. __leavemealone__	  - ghosts don't follow Pac-man
 6. __followme__	      - all ghosts follow Pac-man
 7. __makemeimmortal__ - makes Pac-man immortal until the player activates cheat (8)
-8. __makememortal__	  - makes Pac-man mortal; ghost collision will reset the round
+8. __makememortal__	  - makes Pac-man mortal; ghost collision will reset the round with 1 less life
 9. __toohard__        - decreases the ghost speed and the game level
 10. __pauseplayer__   - pauses the player
 11. __resumeplayer__  - resumes the player
