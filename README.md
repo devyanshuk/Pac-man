@@ -18,3 +18,7 @@ __Cheats:__
 12. __tooeasy__       - increases the speed of all ghosts
 13. __fastgameplay__  - increases the game speed
 14. __slowgameplay__  - decreases the game speed
+
+## Screenshot of the game:
+
+![](background/pac-man.png)
