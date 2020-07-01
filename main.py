@@ -19,7 +19,7 @@ class Game:
         self.env.renderEnvironment()
         self.width = self.height = 20
         self.pac = pacman.Player(self, vec(self.env.pPos))
-        self.level = 3 #levels 1 to 3
+        self.level = 3
         self.ghosts = [(ghosts.Ghost(self, vec(self.env.gPos[i]), i)) for i in range(4)]
         self.text = ''
         self.cheat = cheats.Cheats(self)
