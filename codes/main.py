@@ -41,7 +41,7 @@ class Game:
                 self.waitForInput()
             elif self.play:
                 self.update()
-                self.pac.playerMovements(self.currChoice)
+                self.pac.playerMovements()
                 self.checkCheat()
                 self.checkWin()
                 self.currChoice = (self.currChoice + 1) % 3
